@@ -1,1 +1,3 @@
 # Rock-Paper-Scissors
+This is Basically a simple Rock Paper Scissors game made using the Tkinter Library of Python.
+Futher information is written in the READ_ME.txt in the above folder...
